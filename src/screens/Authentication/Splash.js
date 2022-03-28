@@ -4,7 +4,7 @@ import React from 'react';
 export default function Splash() {
   return (
     <View>
-      <Text style={{color: 'black'}}>Splash</Text>
+      <Text style={{color: 'red'}}>Splash</Text>
     </View>
   );
 }
